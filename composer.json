@@ -9,7 +9,7 @@
     "require": {
         "php": ">=7.1.0",
         "laravel/nova": "*",             
-        "rrr/schedule-list" : "~0.0.1"
+        "rrr/schedule-list" : "~0.0.2"
     },
     "require-dev": {
         "phpunit/phpunit": "~7.0"
