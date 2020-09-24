@@ -8,8 +8,8 @@
     "license": "MIT",
     "require": {
         "php": "^7.3",
-        "illuminate/support": "^7.0",
-        "laravel/nova": "^3.0",
+        "illuminate/support": "^7.0|^8.0",
+        "laravel/nova": "*",
         "rrr/schedule-list" : "~0.0.7"
     },
     "require-dev": {
